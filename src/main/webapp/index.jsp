@@ -8,7 +8,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World I am Tushar Sharma!</h1>
+        <h1>Hello World I am Tushar!</h1>
         <p>I work for NTT Data Services as a DevOps Engineer</p>
         
     </body>
